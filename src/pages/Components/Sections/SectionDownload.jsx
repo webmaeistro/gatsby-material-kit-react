@@ -32,7 +32,7 @@ class SectionDownload extends React.Component {
               <Button
                 color="primary"
                 size="lg"
-                href="https://www.creative-tim.com/product/material-kit-react"
+                href="https://www.github.com/webmaeistro//product/material-kit-react"
                 target="_blank"
               >
                 Free React Download
@@ -40,7 +40,7 @@ class SectionDownload extends React.Component {
               <Button
                 color="primary"
                 size="lg"
-                href="https://www.creative-tim.com/product/material-kit"
+                href="https://www.github.com/webmaeistro//product/material-kit"
                 target="_blank"
               >
                 Free HTML Downoad
@@ -55,7 +55,7 @@ class SectionDownload extends React.Component {
               <h4>
                 We've launched{" "}
                 <a
-                  href="https://www.creative-tim.com/product/material-kit-pro-react"
+                  href="https://www.github.com/webmaeistro//product/material-kit-pro-react"
                   target="_blank"
                 >
                   Material Kit PRO React{" "}
@@ -69,7 +69,7 @@ class SectionDownload extends React.Component {
               <Button
                 color="rose"
                 size="lg"
-                href="https://www.creative-tim.com/product/material-kit-pro-react"
+                href="https://www.github.com/webmaeistro//product/material-kit-pro-react"
                 target="_blank"
               >
                 Material Kit PRO
@@ -77,7 +77,7 @@ class SectionDownload extends React.Component {
               <Button
                 color="rose"
                 size="lg"
-                href="https://www.creative-tim.com/product/material-dashboard-pro-react"
+                href="https://www.github.com/webmaeistro//product/material-dashboard-pro-react"
                 target="_blank"
               >
                 Material Dashboard PRO

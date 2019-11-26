@@ -36,7 +36,7 @@ class Components extends React.Component {
     return (
       <div>
         <Header
-          brand="Material Kit React"
+          brand="BotXO Chatbots"
           rightLinks={<HeaderLinks />}
           fixed
           color="transparent"

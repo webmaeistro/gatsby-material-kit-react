@@ -1,8 +1,8 @@
 {
-  "name": "botxo-repo",
+  "name": "my-repo",
   "private": true,
-  "description": "botxo description",
-  "version": "0.2.0",
+  "description": "bmy description",
+  "version": "0.3.0",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
@@ -20,7 +20,7 @@
     "@material-ui/core": "^3.9.2",
     "@material-ui/icons": "^3.0.2",
     "classnames": "^2.2.6",
-    "core-js": "^2.6.5",
+    "core-js": "^3.0.0",
     "gatsby": "^2.1.24",
     "gatsby-plugin-manifest": "^2.0.22",
     "gatsby-plugin-material-ui": "1.2.5",
